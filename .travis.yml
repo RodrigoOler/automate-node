@@ -1,0 +1,8 @@
+language: bash
+sudo: required
+
+before_script:
+    - curl -L "https://raw.githubusercontent.com/RodrigoOler/automate-node/master/automate-node.sh"
+
+script:
+    - bash automate-node.sh
