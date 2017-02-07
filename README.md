@@ -1,8 +1,8 @@
 <h1 align="center">Script Automate Node</h1>
 
 <p align="center">
-  <a href="https://travis-ci.org/RodrigoOler/telegram-install-ubuntu/builds/157762587">
-    <img src="https://travis-ci.org/RodrigoOler/telegram-install-ubuntu.svg?branch=master">
+  <a href="#">
+    <img src="https://travis-ci.org/RodrigoOler/automate-node.svg?branch=master">
   </a>
 </p>
 
