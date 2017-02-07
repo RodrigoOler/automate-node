@@ -16,7 +16,7 @@
   nvm install v7.5.0
    
   # Use the installed version
-  nvm use node
+  nvm use v7.5.0
   
   # Install global modules
   npm install -g fixpack yarn react-native create-react-app create-graphql yo ngrok
