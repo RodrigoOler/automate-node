@@ -21,5 +21,5 @@
   # Install global modules
   npm install -g fixpack yarn react-native create-react-app create-graphql yo ngrok
   
-  SCRIPT
+SCRIPT
 }
