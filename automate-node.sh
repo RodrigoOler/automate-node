@@ -13,7 +13,7 @@
   curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.0/install.sh | bash
   
   # Download, compile, and install the latest release of node, do this
-  nvm install node
+  nvm install v7.5.0
    
   # Use the installed version
   nvm use node
